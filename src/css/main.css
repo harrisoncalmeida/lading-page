@@ -1,6 +1,6 @@
 /* Estilos gerais */
 .first {
-    background-image: url(../Imagens/Background.png);
+    background-image: url(../img/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -113,7 +113,7 @@
 @media screen and (max-width: 767px) {
     /* Section first */
     .first {
-        background-image: url(../Imagens/Background-celular.png);
+        background-image: url(../img/Background-celular.png);
         display: flex;
         justify-content: center;
         align-items: center;   
